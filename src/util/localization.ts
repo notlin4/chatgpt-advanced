@@ -14,6 +14,7 @@ export const Languages = {
     ko: "한국어",
     pt: "Português",
     zh: "中文"
+    zh_TW: "繁體中文"
 }
 
 const DEFAULT_LANGUAGE = 'en'
